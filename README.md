@@ -1,5 +1,2 @@
-# blackjack game 
-
-
-deployed on netlify
-https://mystifying-stonebraker-98b21d.netlify.app
+simple litte blackjack game built with vanilla JS.
+its not the prettiest but, its pretty fun!
